@@ -1,0 +1,14 @@
+site_name: Moje projekty
+site_author: Kacper Szaruga
+site_description: >-
+    Oto portfolio moich projektów z Data Science i AI!
+
+theme:
+  name: material
+
+nav:
+- Strona Domowa: index.md
+- Obecny projekt:
+  - "Titanic": titanic/index.md
+- Poprzednie projekty:
+  - "Iris": iris/index.md

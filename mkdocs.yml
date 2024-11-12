@@ -3,8 +3,13 @@ site_author: Kacper Szaruga
 site_description: >-
     Oto portfolio moich projektów z Data Science i AI!
 
+repo_name: Kacper-77/portfolio
+repo_url: https://github.com/Kacper-77/portfolio
+
 theme:
   name: material
+  palette:
+    primary: yellow
 
 nav:
 - Strona Domowa: index.md

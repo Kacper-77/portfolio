@@ -1,4 +1,4 @@
-site_name: Moje projekty
+site_name: Portfolio
 site_author: Kacper Szaruga
 site_description: >-
     Oto portfolio moich projektów z Data Science i AI!
@@ -9,11 +9,10 @@ repo_url: https://github.com/Kacper-77/portfolio
 theme:
   name: material
   palette:
-    primary: yellow
+    primary: cyan
 
 nav:
 - Strona Domowa: index.md
-- Obecny projekt:
-  - "Titanic": titanic/index.md
 - Poprzednie projekty:
   - "Iris": iris/index.md
+  - "Titanic": titanic/index.md

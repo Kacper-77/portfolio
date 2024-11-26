@@ -10,4 +10,4 @@ Cześć, mam na imię Kacper i witam cię w moim ogrodzie w którym nadal kiełk
 Otóż nadal skupiam się na masterowaniu Pythona, dalej poszerzam swoję kompetencje w zakresie uczenia maszynowego poprzez naukę scikit-learn i pytorch. Oraz powoli zaczynam naukę JS i C++ aby powoli wypracowyać sobie lingo w końcu co to jest jeden język programowania? A poza tym dochodzi do tego jeszcze nauka popularnych narzędzi w IT min. Docker, Powier BI i inne... no, długo by wymieniać 🤓.
 
 ## Dodatkowo:
-Narazie jest to tylko miejsce w którym są moje projekty, ale wraz z miom rozwojem będę chcaił uczyć i zarażać innych pasją do sztucznej inteligencji więc całkiem możliwe, że pojawią się tu jeszcze treści naukowe w których będę chciał przekazywać wiedzę w prosty do zrozumienia sposób tak żeby nikt nie się zraził na samym początku a w tej branży o to łatwo.
+Narazie jest to tylko miejsce w którym są moje projekty, ale wraz z miom rozwojem będę chciał uczyć i zarażać innych pasją do sztucznej inteligencji więc całkiem możliwe, że pojawią się tu jeszcze treści naukowe w których będę chciał przekazywać wiedzę w prosty do zrozumienia sposób tak żeby nikt nie się zraził na samym początku a w tej branży o to łatwo.

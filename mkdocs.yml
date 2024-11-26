@@ -13,6 +13,8 @@ theme:
 
 nav:
 - Strona Domowa: index.md
-- Poprzednie projekty:
+- Projekty:
   - "Iris": iris/index.md
   - "Titanic": titanic/index.md
+  - "Recipes-io": recipes-io/index.md
+  - "Pomagacz językowy": lng-helper/index.md

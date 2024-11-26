@@ -1,3 +1,5 @@
+![](clouds.png)
+
 # Witaj na stronie portfolio!
 Bardzo mi miło, że jesteś tu ze mną! Jest to strona poświęcona moim projektom. Mam nadzieję, że każdy tu znajdzie jakąś inspiracje. Baw się dobrze!
 
